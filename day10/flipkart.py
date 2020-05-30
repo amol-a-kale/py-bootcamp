@@ -46,6 +46,6 @@ def verify_search_functionality(search_text):
     driver.quit()
 
 
-verify_search_functionality("Macbook pro")
+verify_search_functionality("WWE belt")
 
-verify_search_functionality("samsung mobile phone")
+# verify_search_functionality("samsung mobile phone")
